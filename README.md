@@ -1,4 +1,4 @@
-# Chat_bot_application
+# Chat_application
 # Steps to Start the App
 
 ## Install the Public Dependencies
